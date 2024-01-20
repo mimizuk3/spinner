@@ -1,0 +1,1 @@
+A basic spinner that only uses html and css.
